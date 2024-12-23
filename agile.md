@@ -57,6 +57,8 @@ The Scrum framework is designed for teams of 10 people or less. It breaks down w
 
 </details>
 
+---
+
 Q. Are agile or scrum is the same thing ?
 
 <details> <summary> Answer </summary>
@@ -66,6 +68,8 @@ No, agile is a philosophy or mindset for project management and software develop
 ![image](images/005.png)
 
 </details>
+
+---
 
 Q. What is a Scrum Sprint ?
 
