@@ -99,7 +99,8 @@ Q. What are the 3 Scrum Artifacts ?
 
    - The product increment is the sum of all the completed features and functionality that have been completed during the sprint. It is the result of the sprint. It is the only thing that can be delivered to the customer.
 
-   ![image](images/024.png)
+![image](images/024.png)
+
    <detalils>
 
 ---
@@ -151,3 +152,5 @@ Sprint burndowns are a graphical way of showing how much work is remaining in th
 ![image](images/026.png)
 
 </details>
+
+---
