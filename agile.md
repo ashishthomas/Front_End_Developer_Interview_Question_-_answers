@@ -83,6 +83,18 @@ A sprint is a time-boxed period of time in which a scrum team works to complete 
 
 ---
 
+Q. What is the role of Scrum Master in Scrum team ?
+
+<details> <summary> Answer </summary>
+
+The Scrum Master is accountable for a scrum Team's effectiveness. They focus on coaching the team members in self-management and cross-functionality, eliminating impediments to the team's progress and shielding them from outside interference, and making sure that all scrum events and ceremonies take place and are positive, productive, and kept within the alloted time.
+
+In addition to working with team members, scrum masters also work with project owners as well as stakeholders to ensure that everyone understands and follows scrum practices and is clear about what the team is working on and what the objectives are.
+
+</details>
+
+---
+
 Q. What are the 3 Scrum Artifacts ?
 
 <details> <summary> Answer </summary>
@@ -126,18 +138,6 @@ Q. What are the 4 scrum events or ceremnoies ?
    - The Sprint Retrospective Meeting is a meeting where the Scrum Team discusses what went well during the sprint, what did not go well, and how to improve the process for the next sprint. The Scrum Master is responsible for ensuring the meeting is held and that the team follows the agenda. The Scrum Master should ensure that the team is not critical of each other and that the team is focused on the process and not the people.
 
      ![image](images/022.png)
-
-</details>
-
----
-
-Q. What is the role of Scrum Master in Scrum team ?
-
-<details> <summary> Answer </summary>
-
-The Scrum Master is accountable for a scrum Team's effectiveness. They focus on coaching the team members in self-management and cross-functionality, eliminating impediments to the team's progress and shielding them from outside interference, and making sure that all scrum events and ceremonies take place and are positive, productive, and kept within the alloted time.
-
-In addition to working with team members, scrum masters also work with project owners as well as stakeholders to ensure that everyone understands and follows scrum practices and is clear about what the team is working on and what the objectives are.
 
 </details>
 
