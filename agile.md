@@ -95,25 +95,15 @@ In addition to working with team members, scrum masters also work with project o
 
 ---
 
-Q. What are the 3 Scrum Artifacts ?
+Q. What is a Sprint Burnout chart ?
 
 <details> <summary> Answer </summary>
 
-1. **Product Backlog**
+Sprint burndowns are a graphical way of showing how much work is remaining in the sprint, typically in terms of task hours. It is typically updated at the daily scrum. As the sprint progresses, the amount of work remaining should steadily decrease and should trend toward being complete on the last day of the sprint. Burndowns that show increasing work or few completed tasks are signals to the Scrum Master and the team that the sprint is not going well. Sprint burndown charts helps teams gauge whether they will complete the work of a sprint. Burndown charts also reinforce the Scrum values of commitment, focus and openness and one of the three pillars of empirical process control: transparency.
 
-   - The product backlog is a list of all the features and functionality that a product must have. It is constantly evolving and is never complete.
+![image](images/026.png)
 
-2. **Sprint Backlog**
-
-   - The sprint backlog is a list of all the features and functionality that must be completed during the sprint. It is a subset of the product backlog. It is created during the sprint planning meeting. During this negotiation, the ScrumMaster should work with the Development Team and Product Owner to try to find ways to create some smaller increment of an item rather than drop it altogether.
-
-3. **Prouduct Increment**
-
-   - The product increment is the sum of all the completed features and functionality that have been completed during the sprint. It is the result of the sprint. It is the only thing that can be delivered to the customer.
-
-![image](images/024.png)
-
-   <detalils>
+</details>
 
 ---
 
@@ -143,14 +133,24 @@ Q. What are the 4 scrum events or ceremnoies ?
 
 ---
 
-Q. What is a Sprint Burnout chart ?
+Q. What are the 3 Scrum Artifacts ?
 
 <details> <summary> Answer </summary>
 
-Sprint burndowns are a graphical way of showing how much work is remaining in the sprint, typically in terms of task hours. It is typically updated at the daily scrum. As the sprint progresses, the amount of work remaining should steadily decrease and should trend toward being complete on the last day of the sprint. Burndowns that show increasing work or few completed tasks are signals to the Scrum Master and the team that the sprint is not going well. Sprint burndown charts helps teams gauge whether they will complete the work of a sprint. Burndown charts also reinforce the Scrum values of commitment, focus and openness and one of the three pillars of empirical process control: transparency.
+1. **Product Backlog**
 
-![image](images/026.png)
+   - The product backlog is a list of all the features and functionality that a product must have. It is constantly evolving and is never complete.
 
-</details>
+2. **Sprint Backlog**
+
+   - The sprint backlog is a list of all the features and functionality that must be completed during the sprint. It is a subset of the product backlog. It is created during the sprint planning meeting. During this negotiation, the ScrumMaster should work with the Development Team and Product Owner to try to find ways to create some smaller increment of an item rather than drop it altogether.
+
+3. **Prouduct Increment**
+
+   - The product increment is the sum of all the completed features and functionality that have been completed during the sprint. It is the result of the sprint. It is the only thing that can be delivered to the customer.
+
+![image](images/024.png)
+
+   <detalils>
 
 ---
