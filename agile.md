@@ -73,7 +73,7 @@ No, agile is a philosophy or mindset for project management and software develop
 
 Q. What is a Scrum Sprint ?
 
-<detiails> <summary> Answer </summary>
+<details> <summary> Answer </summary>
 
 A sprint is a time-boxed period of time in which a scrum team works to complete a set of goals. The sprint is the heart of Scrum. It is the only way to deliver value to the customer.
 
@@ -107,9 +107,9 @@ Sprint burndowns are a graphical way of showing how much work is remaining in th
 
 ---
 
-Q. What are the 4 scrum events or ceremnoies ?
+Q. What are the 4 scrum events or ceremonies ?
 
-<details> <summary> Answer <summary>
+<details> <summary> Answer </summary>
 
 1. **Sprint Planning Meeting**
 
