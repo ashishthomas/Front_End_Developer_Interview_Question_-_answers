@@ -72,3 +72,24 @@ Q. What is the difference between `git status` and `git diff`?
 </details>
 
 ---
+
+Q. What is the difference between `git commit -m` and `git commit`?
+
+<details><summary>Answer</summary>
+
+`git commit -m "Your commit message"`:
+
+- -m`is a shorthand for`--message` and is used to specify the commit message directly on the command line.
+- You provide the message in double quotes (`"`) to enclose the message.
+- Example: `git commit -m "Add new feature"`
+
+`git commit`:
+
+- When you run git commit without the -m option, Git will open the default text editor (as configured in your Git settings) for you to write your commit message.
+- This allows you to write a more detailed and descriptive commit message.
+- After you finish writing the message, you save and close the editor to commit the changes.
+- Example: `git commit`
+
+</details>
+
+---
